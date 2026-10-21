@@ -1,0 +1,12 @@
+# Local tooling / process scaffolding
+.superpowers/
+
+# Rust build output
+target/
+dsp/pkg/
+
+# macOS
+.DS_Store
+
+# Generated audio renders from dsp/examples/render.rs
+dsp/renders/
